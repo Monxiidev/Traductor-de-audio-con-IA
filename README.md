@@ -11,4 +11,4 @@ He de agradecer a  [MoureDev](https://youtu.be/oxLvf2nDCvQ?si=8fC2fkEkYl_FwSfc) 
 
 ## Cómo usar este proyecto
 
-### Para realizar un [FORK](https://github.com/Monxiidev/TraductordeaudioconIA/fork) del repositorio Traductor de audio con IA.
+### Lo primero de todo es realizar un [FORK](https://github.com/Monxiidev/Traductor-de-audio-con-IA/fork) del repositorio Traductor de audio con IA.
