@@ -1,0 +1,6 @@
+gradio
+openai-whisper
+translate
+langdetect
+python-dotenv
+google-cloud-texttospeech
