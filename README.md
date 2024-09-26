@@ -14,22 +14,36 @@ He de agradecer a  [MoureDev](https://youtu.be/oxLvf2nDCvQ?si=8fC2fkEkYl_FwSfc) 
 
 - **Interfaz Gráfica**: Proporciona una interfaz de usuario para cargar audios, seleccionar idiomas para la traducción, y reproducir los audios traducidos usando [Gradio](https://www.gradio.app/).
 
-## Capturas sobre el flujo de trabajo 💻
+## Capturas del proyecto 💻
 
+Interfaz: 
 
+![https://github.com/Monxiidev](Traductor-de-audio-con-IA/Images/Interfaz/Interfaz-inicial.png)
 
-Fdhsjflajfklsña
 
 Transcripciones
 
 Inglés:
+
+![https://github.com/Monxiidev](Traductor-de-audio-con-IA/Images/Transcriptions/English-Transcription.png)
+
 Frances:
+
+![https://github.com/Monxiidev](Traductor-de-audio-con-IA/Images/Transcriptions/French-Transcription.png)
+
 Italiano:
+
+![https://github.com/Monxiidev](Traductor-de-audio-con-IA/Images/Transcriptions/Italian-Transcription.png)
+
 Español:
 
-Interfaz inicial
+![https://github.com/Monxiidev](Traductor-de-audio-con-IA/Images/Transcriptions/Espanish-Transcription.png)
 
-Fdhsjflajfklsña
+Interfaz completa:
+
+![https://github.com/Monxiidev](Traductor-de-audio-con-IA/Images/Interfaz/Interfaz-completa.png)
+
+
 
 ## Instalación ⚙️
 
