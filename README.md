@@ -138,7 +138,7 @@ Las contribuciones son bienvenidas. Siéntete libre de hacer un [Fork](https://g
 
 ## Licencia
 
-Este proyecto está licenciado bajo los términos de Apache License 2.0. Ver el archivo LICENSE para más detalles.
+Este proyecto está licenciado bajo los términos de Apache License 2.0. Ver el archivo [LICENSE](./LICENSE) LICENSE para más detalles.
 
 ## Contacto
 
