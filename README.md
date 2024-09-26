@@ -126,7 +126,7 @@ Las contribuciones son bienvenidas. Siéntete libre de hacer un [Fork](https://g
 
 - "requirements.txt": Es la lista de dependencias necesarias para instalar y que así el proyecto funcione correctamente.
 
-## Tecnologías Utilizadas
+## Tecnologías Utilizadas ⚡️
 
 - [Python](https://www.python.org): Como lenguaje de programación
 - [Gradio](https://www.gradio.app/): Para la interfaz gráfica del usuario.
@@ -136,10 +136,10 @@ Las contribuciones son bienvenidas. Siéntete libre de hacer un [Fork](https://g
 - [Langdetect](https://pypi.org/project/langdetect/): Para la detección del idioma del texto.
 
 
-## Licencia
+## Licencia ✅
 
-Este proyecto está licenciado bajo los términos de Apache License 2.0. Ver el archivo [LICENSE](./LICENSE) LICENSE para más detalles.
+Este proyecto está licenciado bajo los términos de Apache License 2.0. Ver el archivo [LICENSE](./LICENSE) para más detalles.
 
-## Contacto
+## Contacto 📥
 
 Si tienes alguna pregunta o sugerencia, siéntete libre de contactarme directamente 🚀🎉
