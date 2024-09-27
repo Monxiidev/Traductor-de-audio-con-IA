@@ -44,7 +44,7 @@ He de agradecer a  [MoureDev](https://youtu.be/oxLvf2nDCvQ?si=8fC2fkEkYl_FwSfc) 
 
 ## Interfaz completa
 
-![Interfaz completa](./Images/Interfaz/Interfaz%20completa.png)
+![Interfaz completa](./Images/Interfaz/Interfaz%20completa%20.png)
 
 ## Ejemplo de Audios Traducidos 💬
 
