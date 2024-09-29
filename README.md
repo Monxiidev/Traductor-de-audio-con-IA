@@ -24,7 +24,7 @@ He de agradecer a  [MoureDev](https://youtu.be/oxLvf2nDCvQ?si=8fC2fkEkYl_FwSfc) 
 ![Interfaz Inicial](./Images/Interfaz/Interfaz%20inicial.png)
 
 
-## Transcripciones 📑
+## Ejemplo de Transcripciones 📑
 
 ## Inglés
 
