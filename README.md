@@ -14,7 +14,7 @@ He de agradecer a  [MoureDev](https://youtu.be/oxLvf2nDCvQ?si=8fC2fkEkYl_FwSfc) 
 
 - **Interfaz Gráfica**: Proporciona una interfaz de usuario para cargar audios, seleccionar idiomas para la traducción, y reproducir los audios traducidos usando [Gradio](https://www.gradio.app/).
 
-- **Sistema de Feedback**: Posee un espacio para dar feedback a nuestro proyecyto.
+- **Sistema de Feedback**: Posee un espacio para dar feedback a nuestro proyecto.
 
 ## Capturas del proyecto 💻
 
@@ -24,7 +24,7 @@ He de agradecer a  [MoureDev](https://youtu.be/oxLvf2nDCvQ?si=8fC2fkEkYl_FwSfc) 
 ![Interfaz Inicial](./Images/Interfaz/Interfaz%20inicial.png)
 
 
-## Transcripciones 📑
+## Ejemplo de Transcripciones 📑
 
 ## Inglés
 
@@ -44,7 +44,7 @@ He de agradecer a  [MoureDev](https://youtu.be/oxLvf2nDCvQ?si=8fC2fkEkYl_FwSfc) 
 
 ## Interfaz completa
 
-![Interfaz completa](./Images/Interfaz/Interfaz%20completa.png)
+![Interfaz completa](./Images/Interfaz/Interfaz%20completa%20.png)
 
 ## Ejemplo de Audios Traducidos 💬
 
